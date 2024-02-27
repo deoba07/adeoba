@@ -1,0 +1,27 @@
+#countdown{    
+    box-sizing: border-box;
+    margin: 2px;
+    border: 2px solid;
+    height: fit-content;
+    width: fit-content;
+    font-size: 35px;
+    color: cornflowerblue;
+    font-weight: bolder;
+}
+.content{
+    color: cornflowerblue;
+img {
+    width: 20%;
+    height: auto;
+}
+
+}
+body{
+    display: flexbox;
+    background-color: white;
+    background-position: center;
+    align-content: center;
+    align-items: center;
+    
+    justify-content:center;
+}
